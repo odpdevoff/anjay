@@ -1,1 +1,3 @@
-javascript:(function(){alert("Hello");})();
+(function(){
+  alert("Hello");
+})();
